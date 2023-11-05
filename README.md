@@ -17,8 +17,6 @@ As always in order to get started I had to clean the csv file from kaggle (https
 
 <img width="381" alt="Screenshot 2023-11-04 at 10 17 58 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/df6ce4a4-7e65-4350-8252-aa9d3b271d82">
 
-
-
 <img width="560" alt="Screenshot 2023-11-04 at 10 21 41 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/276352f4-82e4-4c56-bdb8-80072a781a9d">
 
 <img width="566" alt="Screenshot 2023-11-04 at 10 25 56 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/0c9c556d-9880-4913-b8df-0d3a5c1a16a7">
