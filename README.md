@@ -14,5 +14,8 @@ As always in order to get started I had to clean the csv file, using python func
 
 
 
+![Visuals-Findings-11-4-2023 2](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/a5a0dd20-0875-486a-99fa-119814175e55)
+
+
 
 
