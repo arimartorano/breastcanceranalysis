@@ -10,11 +10,10 @@ October is Breast Cancer Awareness Month and in honor of the fighters, survivors
 ![Methodology-11-4-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/28b5353c-8532-450e-9534-62aced022b8d)
 
 
-As always in order to get started I had to clean the csv file from kaggle (https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data) using python functions and libraries then dropped all the null values. Once the data was validated it was time to dive into the EDA and the CDA  by using logistic regression, random forest classifer, and bagging classifer.
-
-
+As always in order to get started I had to clean the csv file from kaggle (https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data) using python functions and libraries I, then dropped all the null values. Once the data was validated it was time to dive into the EDA and the CDA  by using logistic regression, random forest classifer, and bagging classifer, and more!
 
 ![Visuals-Findings-11-4-2023 2](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/a5a0dd20-0875-486a-99fa-119814175e55)
+
 
 
 
