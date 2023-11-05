@@ -23,6 +23,7 @@ As always in order to get started I had to clean the csv file from kaggle (https
 
 <img width="582" alt="Screenshot 2023-11-04 at 10 22 50 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/387d9383-085f-471f-9e49-5822591213cb">
 
+<img width="557" alt="Screenshot 2023-11-04 at 10 43 52 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/0708f629-01ae-40a5-9a44-11001f34a67b">
 
 
 
