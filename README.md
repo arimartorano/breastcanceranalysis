@@ -31,5 +31,8 @@ As always in order to get started I had to clean the csv file from kaggle (https
 <img width="816" alt="Screenshot 2023-11-04 at 10 52 46 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/48dd8d26-20ba-4488-8869-77af9286bda6">
 
 
-![breastcancerribbon copy](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/85e263d5-4df6-4e81-9c58-9f0297e84186)
+
+
+![breastcancerribbon](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/b80179e1-d071-4555-b47d-ac5f50ba5cae)
+
 
