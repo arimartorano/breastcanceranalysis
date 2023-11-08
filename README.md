@@ -8,11 +8,14 @@ October is Breast Cancer Awareness Month and in honor of the fighters, survivors
 
 ## Methodology 
 
-As always in order to get started I had to clean the csv file from kaggle (https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data) using python functions and libraries I, then dropped all the null values. Once the data was validated it was time to dive into the EDA and the CDA  by using logistic regression, random forest classifer, and bagging classifer, and more!
+Upon researching I was able to find a kaggle data set (https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data) with enough data in order to perform an EDA as well as a prediction model.  Utilizing python functions and libraries I cleaned the data, then dropped all the null values. Once the data was validated it was time to dive into the EDA and the CDA  by using logistic regression, random forest classifer, and bagging classifer, and more!
 
 ## Visuals & Findings 
 
 <img width="381" alt="Screenshot 2023-11-04 at 10 17 58 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/df6ce4a4-7e65-4350-8252-aa9d3b271d82">
+![There-are-2-types-of-breast-ca-11-7-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/0f33a3f3-2592-4add-9f3c-17cfb9f2941d)
+
+
 
 <img width="560" alt="Screenshot 2023-11-04 at 10 21 41 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/276352f4-82e4-4c56-bdb8-80072a781a9d">
 
