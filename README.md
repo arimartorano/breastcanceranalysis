@@ -8,7 +8,7 @@ October is Breast Cancer Awareness Month and in honor of the fighters, survivors
 
 ## Methodology 
 
-Upon researching I was able to find a kaggle data set (https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data) with enough data in order to perform an EDA as well as a prediction model.  Utilizing python functions and libraries I cleaned the data, then dropped all the null values. Once the data was validated it was time to dive into the EDA and the CDA  by using logistic regression, random forest classifer, and bagging classifer, and more!
+Upon researching I was able to find a kaggle data set (https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data) to perform an EDA as well as a prediction model.  Utilizing python functions and libraries I cleaned the data, then dropped all the null values. Once the data was validated it was time to dive into the EDA and the CDA  by using logistic regression, random forest classifer, and bagging classifer, and more!
 
 ## Visuals & Findings 
 
