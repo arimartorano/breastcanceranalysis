@@ -25,17 +25,20 @@ Upon researching I was able to find a kaggle data set (https://www.kaggle.com/da
 
 
 
-![Malignant-is-cancerous-Benign-11-7-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/89dcce72-4036-47a8-9470-c5828821e11d)
+![Malignant-is-cancerous-Benign-11-7-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/f39c791b-861c-44c1-b59a-1ec211e449fb)
 
 
 
-![Breast-cancer-accounts-for-25-11-7-2023 2](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/1155fa59-9e32-4ca1-9bea-b1b0efdc561d)
 
 
-![It-starts-when-breast-cells-be-11-7-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/93480b7b-22e2-4af8-b04b-f8c687ee03f0)
+![Breast-cancer-accounts-for-25-11-7-2023 2](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/2deb292e-dd1b-4bc9-aed6-4210696f44f5)
 
 
 
+
+
+
+![It-starts-when-breast-cells-be-11-7-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/c00d78d1-9985-40af-bf1d-666fb349b3ad)
 
 
 
@@ -44,7 +47,8 @@ Upon researching I was able to find a kaggle data set (https://www.kaggle.com/da
 
 
 
-![These-cells-usually-form-tumor-11-7-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/489a4e34-1411-4a8f-a806-92b0063302e2)
+![These-cells-usually-form-tumor-11-7-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/82c83a83-5370-46e3-a307-6de75b4f3051)
+
 
 <img width="566" alt="Screenshot 2023-11-04 at 10 25 56 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/0c9c556d-9880-4913-b8df-0d3a5c1a16a7">
 
