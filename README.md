@@ -43,26 +43,21 @@ Upon researching I was able to find a kaggle data set (https://www.kaggle.com/da
 
 
 
-<img width="912" alt="Screenshot 2023-11-08 at 10 41 07 AM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/2bfe1b15-ec96-4885-aa9b-93f4db15065a">
 
+<img width="912" alt="Screenshot 2023-11-08 at 10 41 07 AM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/f3cc44b2-d8d7-460a-87df-1a754e05f069">
 
 
 ![These-cells-usually-form-tumor-11-7-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/82c83a83-5370-46e3-a307-6de75b4f3051)
 
 
-<img width="566" alt="Screenshot 2023-11-04 at 10 25 56 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/0c9c556d-9880-4913-b8df-0d3a5c1a16a7">
 
-<img width="582" alt="Screenshot 2023-11-04 at 10 22 50 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/387d9383-085f-471f-9e49-5822591213cb">
+<img width="566" alt="Screenshot 2023-11-04 at 10 25 56 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/3e3d0d97-d91d-4c7d-b39b-63c5f2351922">
 
-<img width="557" alt="Screenshot 2023-11-04 at 10 43 52 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/0708f629-01ae-40a5-9a44-11001f34a67b">
+<img width="582" alt="Screenshot 2023-11-04 at 10 22 50 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/3260b2f8-e0a3-4931-a67f-1d90c55db553">
 
-
-
-
-<img width="816" alt="Screenshot 2023-11-04 at 10 52 46 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/48dd8d26-20ba-4488-8869-77af9286bda6">
+<img width="557" alt="Screenshot 2023-11-04 at 10 43 52 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/6b77a5cd-527b-4f67-95d9-ceed6612277b">
 
 
-
-
+<img width="816" alt="Screenshot 2023-11-04 at 10 52 46 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/99925dfb-bd6f-41dc-acc5-12769e07c33d">
 
 
