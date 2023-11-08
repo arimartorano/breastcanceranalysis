@@ -37,6 +37,19 @@ Upon researching I was able to find a kaggle data set (https://www.kaggle.com/da
 ![Breast-cancer-accounts-for-25-11-7-2023 2](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/1155fa59-9e32-4ca1-9bea-b1b0efdc561d)
 
 
+![It-starts-when-breast-cells-be-11-7-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/93480b7b-22e2-4af8-b04b-f8c687ee03f0)
+
+
+
+
+
+
+
+
+
+
+![These-cells-usually-form-tumor-11-7-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/489a4e34-1411-4a8f-a806-92b0063302e2)
+
 <img width="566" alt="Screenshot 2023-11-04 at 10 25 56 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/0c9c556d-9880-4913-b8df-0d3a5c1a16a7">
 
 <img width="582" alt="Screenshot 2023-11-04 at 10 22 50 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/387d9383-085f-471f-9e49-5822591213cb">
