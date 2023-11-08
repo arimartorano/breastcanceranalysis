@@ -13,18 +13,13 @@ Upon researching I was able to find a kaggle data set (https://www.kaggle.com/da
 ## Visuals & Findings 
 
 
-
-![There-are-2-types-of-breast-ca-11-7-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/85a4278c-048e-4ae1-9d8e-b382f90a31f8)
-
-<img width="381" alt="Screenshot 2023-11-04 at 10 17 58 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/df6ce4a4-7e65-4350-8252-aa9d3b271d82">
+![There-are-2-types-of-breast-ca-11-7-2023](https://github.com/arimartorano/breastcanceranalysis/assets/113561746/b3c4ccdb-3572-4e63-aef4-4faca084af4d)
 
 
+<img width="381" alt="Screenshot 2023-11-04 at 10 17 58 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/73f9aec7-e203-4f60-a350-20ba14f91b0d">
 
 
-
-
-
-<img width="560" alt="Screenshot 2023-11-04 at 10 21 41 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/276352f4-82e4-4c56-bdb8-80072a781a9d">
+<img width="560" alt="Screenshot 2023-11-04 at 10 21 41 PM" src="https://github.com/arimartorano/breastcanceranalysis/assets/113561746/9bf7bc9d-2606-40d3-9dae-01f9282f46e2">
 
 
 
